@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/3T0NcXz/aa.jpg",
+      "name": "Nature's Beauty",
+      "time": "1 hour ago",
+      "paragraph": "In the heart of untouched wilderness lies the captivating beauty of nature, where every element harmonizes in a symphony of life.",
+      "likeCount": 10,
+      "commentCount": 5,
+      "viewCount": 100
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/b2SSbd6/bbbb.jpg",
+      "name": "Mountain Adventures",
+      "time": "2 hours ago",
+      "paragraph": "Towering trees, adorned with vibrant foliage, reach towards the heavens, their branches dancing in the gentle breeze.",
+      "likeCount": 15,
+      "commentCount": 8,
+      "viewCount": 120
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/CtHwzWm/c.jpg",
+      "name": "Sunset Serenity",
+      "time": "3 hours ago",
+      "paragraph": "Sunlight filters through the emerald canopy, casting dappled patterns upon the forest floor below.",
+      "likeCount": 20,
+      "commentCount": 10,
+      "viewCount": 150
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/x8sP65b/panguin.jpg",
+      "name": "Ocean Dreams",
+      "time": "4 hours ago",
+      "paragraph": "The melody of flowing water accompanies the chorus of birdsong that fills the air, as colorful avian creatures flit between branches, their iridescent plumage shimmering in the light.",
+      "likeCount": 25,
+      "commentCount": 12,
+      "viewCount": 180
+    }
+  ]
+  
